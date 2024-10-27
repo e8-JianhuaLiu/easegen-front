@@ -653,16 +653,16 @@ const templates = [
     showPPT: true,
     isActive: true,
     PPTPositon: {
-      w: 672,
-      h: 379,
-      x: 122,
+      w: 600,
+      h: 337,
+      x: 200,
       y: 20
     },
     HumanPositon: {
-      w: 150,
-      h: 198,
+      w: 200,
+      h: 264,
       x: 0,
-      y: 252
+      y: 186
     },
     bgImage:
       'http://36.103.251.108:48084/39f5490c0ee98d23a3c476303a44d99016f81dd81be8bc38278bf37bf3602964.png'
