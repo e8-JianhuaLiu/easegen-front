@@ -5,9 +5,7 @@
 ## 🐶 新手必读
 
 * nodejs > 16.18.0 && pnpm > 8.6.0 (强制使用pnpm)
-* 演示地址【Vue3 + element-plus】：<http://36.103.251.108:48083>
 * 启动文档：请加入飞书群
-  ![飞书](public/feishu.png)
 * 教程：TODO
 * 操作手册：TODO
 
@@ -67,12 +65,3 @@
 | ESLint                        | 脚本代码检查              |
 | DotENV                        | env 文件高亮            |
 
-## 🔥 后端架构 TODO
-
-Spring Boot：
-
-① easegen-admin：<https://github.com/taoofagi/easegen-admin>
-
-
-### 若依其他系统功能
-请参考[ruoyi-vue-pro](https://gitee.com/zhijiantianya/ruoyi-vue-pro#-%E5%86%85%E7%BD%AE%E5%8A%9F%E8%83%BD)
